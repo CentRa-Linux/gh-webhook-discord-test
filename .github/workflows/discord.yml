@@ -5,4 +5,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: curl -H "Content-Type: application/json" -X POST -d '{"content": "支店を板に吊るしてギリギリ太るカレーセット！！"}' "https://discord.com/api/webhooks/1174276863456182282/XZWmMzW46HiUlyiVs0Wv_wWMj_Xm_sKpOdyARSHPu4vjLfJsEbHoUDpLyfXEY072oFkl"
+      - run: curl -H "Content-Type:application/json" -X POST -d '{"content":"支店を板に吊るしてギリギリ太るカレーセット！！"}' "https://discord.com/api/webhooks/1174276863456182282/XZWmMzW46HiUlyiVs0Wv_wWMj_Xm_sKpOdyARSHPu4vjLfJsEbHoUDpLyfXEY072oFkl"
