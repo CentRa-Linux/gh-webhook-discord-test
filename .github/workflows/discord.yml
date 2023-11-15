@@ -9,6 +9,6 @@ jobs:
         curl -H "Content-Type: application/json" \
         -X POST \
         -d '{
-          "content": "支店を板に吊るしてギリギリ太るカレーセット！！"
+          "content": "よっこいしょ☆チャンバラ！"
         }' \
         "https://discord.com/api/webhooks/1174276863456182282/XZWmMzW46HiUlyiVs0Wv_wWMj_Xm_sKpOdyARSHPu4vjLfJsEbHoUDpLyfXEY072oFkl"
